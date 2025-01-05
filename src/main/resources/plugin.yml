@@ -1,0 +1,4 @@
+name: HololiveUHC
+version: '${project.version}'
+main: org.holo.hololiveuhc.HololiveUHC
+api-version: '1.21'
